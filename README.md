@@ -38,4 +38,36 @@ The project also demonstrates the use of Java Swing for building graphical user 
 
 ---
 
+## Libraries and Frameworks Used
+- **Java Swing**: For building the Graphical User Interface (GUI).
+- **Java Standard Libraries**: Collections, Threads, I/O, Math, and Utility packages.
 
+---
+
+## Skills Demonstrated
+- Designing interactive, user-centric applications using java.
+- Developing event-driven Java Swing applications.
+- Implementing multithreaded logic to handle real-time updates.
+- Managing user input validation and dynamic menu navigation.
+- Writing modular, maintainable, and scalable Java code.
+- Creating custom mini-games and integrating them within a larger application framework.
+- Handling complex user flow and graceful application exits.
+
+---
+
+## Future Enhancements
+- Persistent pet data using file storage or databases.
+- More pet types with unique behaviors.
+- Additional mini-games with increasing difficulty levels.
+- Enhanced graphics and animations.
+- User accounts for tracking progress across sessions.
+
+---
+
+## Getting Started
+1. Ensure you have Java installed (JDK 8 or above).
+2. Run the main application using:
+   java VirtuallPett
+
+## Author
+Rhithanya Parthasarathi
